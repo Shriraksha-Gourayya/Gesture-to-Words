@@ -66,7 +66,7 @@ The video data was processed into suitable landmark sequences for model training
 
 The dataset will be published on **Kaggle** for reference and further academic use.
 
-**Kaggle Dataset:** *Link will be added after publication.*
+**Kaggle Dataset:** *https://www.kaggle.com/datasets/shreerakshagourayya/isl-gesture-to-words)*
 
 ## 🧠 Model
 
